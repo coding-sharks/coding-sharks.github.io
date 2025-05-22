@@ -29,12 +29,18 @@ Prior to this, I received my B.Eng. degree from Jinan University in 2025.
 
 **Jinan University (JNU)**,&nbsp; *09/2021 - 06/2025*
 
-* B.Eng. in Computer Science. Academic Star of Jinan University International School(Top 1%)
+* B.Eng. in Computer Science. Supervisor: Yujuan Quan. Academic Star of Jinan University International School(Top 1%)
 
 # 📝 Publications 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICLR 2025</span> [Recent Advances in End-to-End Simultaneous Speech Translation](https://arxiv.org/pdf/2406.00497), Xiaoqian Liu, **<u>Guoqiang Hu</u>**, Yangfan Du, Erfeng He, Yingfeng Luo, Chen Xu, Tong Xiao, Jingbo Zhu.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IJCAI 2024</span> [Recent Advances in End-to-End Simultaneous Speech Translation](https://arxiv.org/pdf/2406.00497), Xiaoqian Liu, **<u>Guoqiang Hu</u>**, Yangfan Du, Erfeng He, Yingfeng Luo, Chen Xu, Tong Xiao, Jingbo Zhu.
 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">InterSpeech 2024</span> [Simul-Whisper: Attention-Guided Streaming Whisper with Truncation Detection](https://arxiv.org/pdf/2406.10052), Haoyu Wang\*, **<u>Guoqiang Hu</u>\***, Guodong Lin, Wei-Qiang Zhang, Jian Li.
+  
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IALP 2024</span> [A Mel Spectrogram Enhancement Paradigm Based on CWT in Speech Synthesis](https://ieeexplore.ieee.org/abstract/document/10661192), **<u>Guoqiang Hu</u>**, Huaning Tan, Ruilai Li.
 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICBDT 2022</span> [Feature Selection Methods for High-Dimensional Biomedical Time-to-Event Data: a Review](https://dl.acm.org/doi/abs/10.1145/3565291.3565309), Huaning Tan, Chutong Deng, Shaobo Chen, Qianlin Luo, **<u>Guoqiang Hu</u>**, Yujuan Quan.
+
+  
 # 💻 Internships & Collabration
 
 **NLP Lab; NEU**, *07/2023 - 05/2025*
