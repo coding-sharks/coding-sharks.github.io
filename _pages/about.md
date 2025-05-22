@@ -39,6 +39,8 @@ I am currently a first-year MEng student at College of Computing & Data Science,
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICBDT 2022</span> [Feature Selection Methods for High-Dimensional Biomedical Time-to-Event Data: a Review](https://dl.acm.org/doi/abs/10.1145/3565291.3565309), Huaning Tan, Chutong Deng, Shaobo Chen, Qianlin Luo, **<u>Guoqiang Hu</u>**, Yujuan Quan.
 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">EURASIP J ADV SIG PR</span> [A Multi-Task Learning Speech Synthesis Optimization method Based on CWT: a case study of Tacotron2](https://link.springer.com/article/10.1186/s13634-023-01096-x), **<u>Guoqiang Hu</u>**, Zhuofan Ruan, Wenqiu Guo, Yujuan Quan.
+
   
 # 💻 Internships and Collabration
 
