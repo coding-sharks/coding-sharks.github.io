@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Giannis(Guoqiang) Hu"
-description              : "MEng Student at NTU "
+title                    : "Giannis Hu"
+description              : "It's not Rocket Science!"
 repository               : "coding-sharks/coding-sharks.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Giannis(Guoqiang) Hu"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  name             : "Giannis Hu"
+  avatar           : "images/Giannis-512.png"
+  bio              : "MEng Student at NTU"
   location         : "Singapore"
   googlescholar    : "https://scholar.google.com/citations?user=2WK2WBEAAAAJ&hl"
   email            : "guoqiang002@e.ntu.edu.sg"
