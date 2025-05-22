@@ -17,25 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a final-year Ph.D. student at School of Computer Science and Engineering, Nanyang Technological University, supervised by Prof. [Eng Siong Chng](https://scholar.google.com/citations?hl=en&user=FJodrCcAAAAJ). 
-Prior to this, I received my B.Eng. degree from University of Science and Technology of China in 2020.
+I am currently a first-year MEng student at College of Computing & Data Science, Nanyang Technological University, supervised by Prof. [Eng Siong Chng](https://scholar.google.com/citations?hl=en&user=FJodrCcAAAAJ). 
+Prior to this, I received my B.Eng. degree from Jinan University in 2025.
 
-My research topics are:
 
-- **Speech LLMs:** &thinsp;Full-duplex Speech Dialog Systems, Text-to-Speech Synthesis (RLHF, Streaming), Generative Seq2seq Learning;
-
-- **Speech Processing:** &thinsp;Speech Recognition&thinsp;/&thinsp;Translation&thinsp;/&thinsp;Enhancement, Efficient Adaptation of Foundation Models;
-
-- **Multimodal:** &thinsp;Video-to-Audio Generation, Audio-Visual Understanding;
 
 # 📖 Education
-**Nanyang Technological University (NTU)**,&nbsp; *08/2021 - 06/2025*
+**Nanyang Technological University (NTU)**,&nbsp; *08/2025 - 06/2027*
 
-* Ph.D. in Computer Science. Supervisor: Eng Siong Chng.
+* MEng. in Computer Science. Supervisor: Eng Siong Chng.
 
-**University of Science and Technology of China (USTC)**,&nbsp; *09/2016 - 06/2020*
+**Jinan University (JNU)**,&nbsp; *09/2021 - 06/2025*
 
-* B.Eng. in Automation. GPA: 3.76/4.3 (Rank: Top 5%)&nbsp; [[Transcript]](https://yuchen005.github.io/files/transcript_en_zh.pdf)
+* B.Eng. in Computer Science. Academic Star of Jinan University International School(Top 1%)
 
 # 📝 Publications 
 
@@ -43,22 +37,18 @@ My research topics are:
 
 # 💻 Internships & Collabration
 
-**Iflytek AI Research &amp; USTC NEL-SLIP**, *05/2020 - 07/2021*
-* Research intern. Supervisor: Lirong Dai.
-* Work on end-to-end ASR and speech translation.
+**NLP Lab; NEU**, *07/2023 - 12/2023*
+* Research intern. Supervisor: Tong Xiao.
+* Work on simultaneous speech translation.
 
 
 # 🧑‍🔬 Services
-- **Reviewer:**&nbsp; ICML (25), NeurIPS (24), ICLR (25), ACL (23-25), EMNLP (23-24), AAAI (24-25), ICASSP (22-25), InterSpeech (22-25), IEEE/ACM TASLP, IEEE SPL
-- **Volunteer:**&nbsp; EMNLP (23), ICASSP (22)
-
+- **Reviewer:**&nbsp; IJCAI (25)
 
 # 🎖 Honors and Awards
-- ACL 2023 Area Chair Award,&nbsp; *07/2023*
-- Winner of IWSLT 2021 Evaluation Campaign,&nbsp; *08/2021*
-- USTC Excellent Graduate (Top 10%),&nbsp; *06/2020*
-- Scholarship of SIMIT, Chinese Academy of Sciences (Top 5%),&nbsp; *10/2018*
-- USTC Outstanding Student Scholarship (Top 5%),&nbsp; *10/2017 &amp; 10/2019*
+- Tsang Hin-chi Scholarship for Excellent Students; *10/2022 - 06/2025*
+- Outstanding Class President Honors; *11/2024*
+
 
 
 
