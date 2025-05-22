@@ -41,7 +41,7 @@ Prior to this, I received my B.Eng. degree from Jinan University in 2025.
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICBDT 2022</span> [Feature Selection Methods for High-Dimensional Biomedical Time-to-Event Data: a Review](https://dl.acm.org/doi/abs/10.1145/3565291.3565309), Huaning Tan, Chutong Deng, Shaobo Chen, Qianlin Luo, **<u>Guoqiang Hu</u>**, Yujuan Quan.
 
   
-# 💻 Internships & Collabration
+# 💻 Internships and Collabration
 
 **NLP Lab; NEU**, *07/2023 - 05/2025*
 * Research intern & Bachelor’s thesis project. Supervisor: Tong Xiao.
