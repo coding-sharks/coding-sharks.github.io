@@ -37,10 +37,13 @@ Prior to this, I received my B.Eng. degree from Jinan University in 2025.
 
 # 💻 Internships & Collabration
 
-**NLP Lab; NEU**, *07/2023 - 12/2023*
-* Research intern. Supervisor: Tong Xiao.
+**NLP Lab; NEU**, *07/2023 - 05/2025*
+* Research intern & Bachelor’s thesis project. Supervisor: Tong Xiao.
 * Work on simultaneous speech translation.
 
+**SAT Lab; THU**, *01/2024 - 03/2024*
+* Research intern. Supervisor: Wei-Qiang Zhang.
+* Work on streaming ASR.
 
 # 🧑‍🔬 Services
 - **Reviewer:**&nbsp; IJCAI (25)
