@@ -65,4 +65,4 @@ I am currently a first-year MEng student at College of Computing & Data Science,
 
 Thanks for the template of <a href="https://github.com/RayeRen/acad-homepage.github.io">Yi Ren</a>
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=tWtQE7TmvuyYwZoMvhZ03hz9JwVV2jqLDfST5K4doxk&co=9fc7e3&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=cDVi8K_5uxZb7qOQoecqDEUueljn-YXXEm5tPqAd0v0"></script>
