@@ -32,7 +32,7 @@ Prior to this, I received my B.Eng. degree from Jinan University in 2025.
 * B.Eng. in Computer Science. Academic Star of Jinan University International School(Top 1%)
 
 # 📝 Publications 
-
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICLR 2025</span> [Recent Advances in End-to-End Simultaneous Speech Translation](https://arxiv.org/pdf/2406.00497), Xiaoqian Liu, **<u>Guoqiang Hu</u>**, Yangfan Du, Erfeng He, Yingfeng Luo, Chen Xu, Tong Xiao, Jingbo Zhu.
 
 
 # 💻 Internships & Collabration
