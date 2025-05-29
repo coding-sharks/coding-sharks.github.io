@@ -22,7 +22,7 @@ I am currently a first-year MEng student at College of Computing & Data Science,
 
 
 # 📖 Education
-**Nanyang Technological University (NTU)**,&nbsp; *08/2025 - 06/2027*
+**Nanyang Technological University (NTU)**,&nbsp; *08/2025 - Present*
 
 * MEng. in Computer Science. Supervisor: Eng Siong Chng.
 
