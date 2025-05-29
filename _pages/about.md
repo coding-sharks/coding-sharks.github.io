@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first-year MEng student at College of Computing & Data Science, Nanyang Technological University, supervised by Prof. [Eng Siong Chng](https://scholar.google.com/citations?hl=en&user=FJodrCcAAAAJ). Prior to this, I received my B.Eng. degree from Jinan University in 2025. My research focuses on speech processing, with publications in simultaneous speech translation, automatic speech recognition, and text-to-speech. I am particularly interested in building efficient and high-quality systems for real-time speech applications, and exploring the potential of audio-LLM.
+I am currently a first-year MEng student at College of Computing & Data Science, Nanyang Technological University, supervised by Prof. [Eng Siong Chng](https://scholar.google.com/citations?hl=en&user=FJodrCcAAAAJ). Prior to this, I received my B.Eng. degree from Jinan University in 2025. My research focuses on speech processing and I am particularly interested in building efficient and high-quality systems for real-time speech applications, and exploring the potential of audio-LLM.
 
 
 
@@ -44,12 +44,15 @@ I am currently a first-year MEng student at College of Computing & Data Science,
   
 # 💻 Internships and Collabration
 
+**Speech Lab; StepFun**, *06/2025 - Present*
+* Research Intern. 
+  
 **NLP Lab; Northeastern University**, *07/2023 - 05/2025*
-* Research intern & Bachelor’s thesis project. Supervisor: Tong Xiao.
+* Research Intern & Bachelor’s thesis project. Supervisor: Tong Xiao.
 * Work on simultaneous speech translation.
 
 **SAT Lab; Tsinghua University**, *01/2024 - 03/2024*
-* Research intern. Supervisor: Wei-Qiang Zhang.
+* Research Intern. Supervisor: Wei-Qiang Zhang.
 * Work on streaming ASR.
 
 # 🧑‍🔬 Services
