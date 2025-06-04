@@ -45,7 +45,7 @@ I am currently a first-year MEng student at College of Computing & Data Science,
 # 💻 Internships and Collabration
 
 **Speech Lab; StepFun**, *06/2025 - Present*
-* Research Intern. 
+* Research Intern. Supervisor: Fei Tian.
   
 **NLP Lab; Northeastern University**, *07/2023 - 05/2025*
 * Research Intern & Bachelor’s thesis project. Supervisor: Tong Xiao.
