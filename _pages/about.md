@@ -48,10 +48,11 @@ I am currently a first-year MEng student at College of Computing & Data Science,
 * Research Intern. Supervisor: Fei Tian.
   
 **NLP Lab; Northeastern University**, *07/2023 - 05/2025*
-* Research Intern & Bachelor’s thesis project. Supervisor: Tong Xiao.
+* Research Intern. Supervisor: Tong Xiao.
+* Bachelor’s thesis project. Supervisor: Tong Xiao.
 * Work on simultaneous speech translation.
 
-**SAT Lab; Tsinghua University**, *01/2024 - 03/2024*
+**SAT Lab; Tsinghua University**, *12/2023 - 03/2024*
 * Research Intern. Supervisor: Wei-Qiang Zhang.
 * Work on streaming ASR.
 
