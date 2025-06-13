@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Giannis Hu"
   avatar           : "images/Giannis-512.png"
-  bio              : "MEng Student at NTU"
+  bio              : "M.Eng Student at NTU"
   location         : "Singapore"
   googlescholar    : "https://scholar.google.com/citations?user=2WK2WBEAAAAJ&hl"
   email            : "guoqiang002@e.ntu.edu.sg"
@@ -35,7 +35,7 @@ author:
 
   instagram        :
 
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "giannis-hu-61b5b536b"
 
  
  
