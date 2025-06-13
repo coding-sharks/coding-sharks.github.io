@@ -24,7 +24,7 @@ I am currently a first-year MEng student at College of Computing & Data Science,
 # 📖 Education
 **Nanyang Technological University (NTU)**,&nbsp; *08/2025 - Present*
 
-* MEng. in Computer Science. Supervisor: Eng Siong Chng.
+* M.Eng. in Computer Science. Supervisor: Eng Siong Chng.
 
 **Jinan University (JNU)**,&nbsp; *09/2021 - 06/2025*
 
