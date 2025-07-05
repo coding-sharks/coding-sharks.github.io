@@ -64,9 +64,8 @@ I am currently a first-year MEng student at College of Computing & Data Science,
 - Outstanding Undergraduate Thesis Award(Top 1%); *06/2025*
 - Academic Star of Jinan University International School(Top 1%); *12/2024*
 - Tsang Hin-chi Scholarship for Excellent Students(Top 1%); *06/2023 - 06/2025*
-- Outstanding Class President Honors; *11/2024*
 - Excellent Intern in Speech Program Organized by ASLP Lab; *09/2023*
-
+- Outstanding Class President Honors of Jinan University; *11/2024*
 
 
 
