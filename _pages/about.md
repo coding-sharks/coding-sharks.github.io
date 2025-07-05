@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first-year MEng student at College of Computing & Data Science, Nanyang Technological University, supervised by Prof. [Eng Siong Chng](https://scholar.google.com/citations?hl=en&user=FJodrCcAAAAJ). Prior to this, I received my B.Eng. degree from Jinan University in 2025. My research focuses on speech processing and I am particularly interested in building efficient and high-quality systems for real-time speech applications, and exploring the potential of audio-LLM.
+I am currently a first-year Master's student at College of Computing & Data Science, Nanyang Technological University, supervised by Prof. [Eng Siong Chng](https://scholar.google.com/citations?hl=en&user=FJodrCcAAAAJ). Prior to this, I received my B.Eng. degree from Jinan University in 2025. My research interests lie in speech processing, with a particular focus on developing efficient and high-quality spoken dialogue systems applications. I am also keen on exploring the capabilities of audio-LLM.
 
 
 
