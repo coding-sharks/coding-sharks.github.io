@@ -31,6 +31,8 @@ I am currently a first-year Master's student at College of Computing & Data Scie
 * B.Eng. in Computer Science. Supervisor: Yujuan Quan.
 
 # 📝 Publications 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Technical Report</span> [Step-Audio 2 Technical Report](https://arxiv.org/pdf/2507.16632), **<u>StepFun Audio Team</u>**.
+  
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IJCAI 2024</span> [Recent Advances in End-to-End Simultaneous Speech Translation](https://arxiv.org/pdf/2406.00497), Xiaoqian Liu, **<u>Guoqiang Hu</u>**, Yangfan Du, Erfeng He, Yingfeng Luo, Chen Xu, Tong Xiao, Jingbo Zhu.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">InterSpeech 2024</span> [Simul-Whisper: Attention-Guided Streaming Whisper with Truncation Detection](https://arxiv.org/pdf/2406.10052), Haoyu Wang\*, **<u>Guoqiang Hu</u>\***, Guodong Lin, Wei-Qiang Zhang, Jian Li.
@@ -40,6 +42,9 @@ I am currently a first-year Master's student at College of Computing & Data Scie
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICBDT 2022</span> [Feature Selection Methods for High-Dimensional Biomedical Time-to-Event Data: a Review](https://dl.acm.org/doi/abs/10.1145/3565291.3565309), Huaning Tan, Chutong Deng, Shaobo Chen, Qianlin Luo, **<u>Guoqiang Hu</u>**, Yujuan Quan.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">EURASIP J ADV SIG PR</span> [A Multi-Task Learning Speech Synthesis Optimization method Based on CWT: a case study of Tacotron2](https://link.springer.com/article/10.1186/s13634-023-01096-x), **<u>Guoqiang Hu</u>**, Zhuofan Ruan, Wenqiu Guo, Yujuan Quan.
+
+# 🔍 Technical Reports
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Technical Report</span> [Step-Audio 2 Technical Report](https://arxiv.org/pdf/2507.16632), **<u>StepFun Audio Team</u>**.
 
   
 # 💻 Internships and Collabration
