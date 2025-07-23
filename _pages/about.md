@@ -31,7 +31,6 @@ I am currently a first-year Master's student at College of Computing & Data Scie
 * B.Eng. in Computer Science. Supervisor: Yujuan Quan.
 
 # 📝 Publications 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Technical Report</span> [Step-Audio 2 Technical Report](https://arxiv.org/pdf/2507.16632), **<u>StepFun Audio Team</u>**.
   
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IJCAI 2024</span> [Recent Advances in End-to-End Simultaneous Speech Translation](https://arxiv.org/pdf/2406.00497), Xiaoqian Liu, **<u>Guoqiang Hu</u>**, Yangfan Du, Erfeng He, Yingfeng Luo, Chen Xu, Tong Xiao, Jingbo Zhu.
 
