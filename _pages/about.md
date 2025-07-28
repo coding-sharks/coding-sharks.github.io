@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first-year Master's student at College of Computing & Data Science, Nanyang Technological University, supervised by Prof. [Eng Siong Chng](https://scholar.google.com/citations?hl=en&user=FJodrCcAAAAJ). Prior to this, I received my B.Eng. degree from Jinan University in 2025. My research interests lie in speech processing, with a particular focus on developing efficient and high-quality spoken dialogue systems applications. I am also keen on exploring the capabilities of audio-LLM.
+  I am currently a first-year Master's student at College of Computing & Data Science, Nanyang Technological University(NTU), supervised by Prof. [Eng Siong Chng](https://scholar.google.com/citations?hl=en&user=FJodrCcAAAAJ). Prior to this, I received my B.Eng. degree from Jinan University in 2025. My research interests lie in speech processing, with a particular focus on developing efficient and high-quality spoken dialogue systems applications. I am also keen on exploring the capabilities of audio-LLM.
 
 
 
@@ -43,7 +43,7 @@ I am currently a first-year Master's student at College of Computing & Data Scie
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">EURASIP J ADV SIG PR</span> [A Multi-Task Learning Speech Synthesis Optimization method Based on CWT: a case study of Tacotron2](https://link.springer.com/article/10.1186/s13634-023-01096-x), **<u>Guoqiang Hu</u>**, Zhuofan Ruan, Wenqiu Guo, Yujuan Quan.
 
 # 🔍 Technical Reports
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Technical Report</span> [Step-Audio 2 Technical Report](https://arxiv.org/pdf/2507.16632), **<u>StepFun Audio Team</u>**.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">StepFun</span> [Step-Audio 2 Technical Report](https://arxiv.org/pdf/2507.16632), **<u>StepFun Audio Team</u>**.
 
   
 # 💻 Internships and Collabration
