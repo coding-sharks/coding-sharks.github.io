@@ -50,15 +50,20 @@ redirect_from:
 
 **Speech Lab; StepFun**, *06/2025 - Present*
 * Research Intern. Supervisor: Fei Tian.
+* Work on Spoken Dialog Model and Paralinguistic-Aware LLM.
   
-**NLP Lab; Northeastern University**, *07/2023 - 05/2025*
-* Research Intern. Supervisor: Tong Xiao.
-* Bachelor’s thesis project. Supervisor: Tong Xiao.
-* Work on simultaneous speech translation.
+**Speech Group; Gezi Interactive Technology**, *09/2024 - 01/2025*
+* Remote Intern. Supervisor: Ying Xu.
+* Work on Speech Translation.
 
 **SAT Lab; Tsinghua University**, *12/2023 - 03/2024*
 * Research Intern. Supervisor: Wei-Qiang Zhang.
-* Work on streaming ASR.
+* Work on Streaming ASR.
+
+**NLP Lab; Northeastern University**, *07/2023 - 05/2025*
+* Research Intern. Supervisor: Tong Xiao.
+* Bachelor’s thesis project. Supervisor: Tong Xiao.
+* Work on Simultaneous Speech Translation.
 
 # 🧑‍🔬 Services
 - **Reviewer:**&nbsp; IJCAI (25)
