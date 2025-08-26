@@ -52,7 +52,7 @@ redirect_from:
 * Research Intern. Supervisor: Fei Tian.
 * Work on Spoken Dialog Model and Paralinguistic-Aware LLM.
   
-**Speech Group; Gezi Interactive Technology**, *09/2024 - 01/2025*
+**Speech Group; Gerzz Interactive**, *09/2024 - 01/2025*
 * Remote Intern. Supervisor: Ying Xu.
 * Work on Speech Translation.
 
