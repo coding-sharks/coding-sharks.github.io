@@ -19,6 +19,9 @@ redirect_from:
 
   I am currently a first-year Master's student at College of Computing & Data Science, Nanyang Technological University(NTU), supervised by Prof. [Eng Siong Chng](https://scholar.google.com/citations?hl=en&user=FJodrCcAAAAJ). Prior to this, I received my B.Eng. degree in Computer Science and Technology from Jinan University in 2025, with English as the medium of instruction. My research interests lie in speech processing, with a particular focus on developing efficient and high-quality spoken dialogue system applications. I am also keen on exploring Paralinguistic-Aware LLM.
 
+  **I enjoy talking to and learning from different people, whether it’s about research plans, career development, or life in general. I’m also open to academic collaboration opportunities. Please feel free to contact me by guoqiang002@e.ntu.edu.sg if you are interested!**
+
+
 
 
 # 📖 Education
