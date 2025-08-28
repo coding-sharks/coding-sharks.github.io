@@ -21,7 +21,7 @@ redirect_from:
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📢**I enjoy talking to and learning from different people, whether it’s about research plans, career development, or life in general. I’m also open to academic collaboration opportunities. Please feel free to contact me by <a href="mailto:guoqiang002@e.ntu.edu.sg">guoqiang002@e.ntu.edu.sg</a> if you are interested!**
+📢**I enjoy talking to and learning from different people, whether it’s about research plans, career development, or life in general. I’m also open to academic collaboration opportunities. Please feel free to contact me by <a href="mailto:guoqiang002@e.ntu.edu.sg">guoqiang002@e.ntu.edu.sg</a> if you are interested!**
 
 
 
