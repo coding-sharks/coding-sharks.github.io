@@ -58,7 +58,7 @@ redirect_from:
 * Work on Spoken Dialog Model and Paralinguistic-Aware LLM.
   
 **Speech Group; Gerzz Interactive**, *09/2024 - 01/2025*
-* Remote Intern. Supervisor: Ying Xu.
+* Algorithm Intern. Supervisor: Ying Xu.
 * Work on Speech Translation.
 
 **SAT Lab; Tsinghua University**, *12/2023 - 03/2024*
