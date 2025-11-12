@@ -57,8 +57,8 @@ redirect_from:
   
 # 💻 Internships and Collabration
 
-**Speech Lab; StepFun**, *06/2025 - Present*
-* Research Intern. Supervisor: Fei Tian.
+**Audio Team; StepFun**, *06/2025 - Present*
+* Research Intern. Supervisor: Chao Yan & Fei Tian.
 * Work on Spoken Dialog Model and Paralinguistic-Aware LLM.
   
 **Speech Group; Gerzz Interactive**, *09/2024 - 01/2025*
