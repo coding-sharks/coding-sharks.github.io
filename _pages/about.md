@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am currently a final-year Master's student at College of Computing & Data Science, Nanyang Technological University(NTU), supervised by Prof. [Eng Siong Chng](https://scholar.google.com/citations?hl=en&user=FJodrCcAAAAJ). Prior to this, I received my B.Eng. degree in Computer Science and Technology from Jinan University in 2025, with English as the medium of instruction. My research focuses on generative speech modeling and speech language models, especially controllable and expressive speech generation. I am interested in building paralinguistic-aware LLMs that enable more natural and human-like spoken interactions.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am currently a final-year Master's student at College of Computing & Data Science, Nanyang Technological University(NTU), supervised by Prof. [Eng Siong Chng](https://scholar.google.com/citations?hl=en&user=FJodrCcAAAAJ). Prior to this, I received my B.Eng. degree in Computer Science and Technology from Jinan University in 2025, with English as the medium of instruction. 
+
+My research focuses on Speech LLM and RL, especially controllable and expressive speech generation. I am interested in building Paralinguistic-Aware LLMs that enable more natural and human-like spoken interactions.
 
 <br>
 
@@ -27,7 +29,7 @@ redirect_from:
 
 
 # 📖 Education
-**Nanyang Technological University (NTU)**,&nbsp; *08/2025 - Present*
+**Nanyang Technological University (NTU)**,&nbsp; *08/2025 - 06/2027*
 
 * M.Eng. in Computer Science. Supervisor: Eng Siong Chng.
 
@@ -59,7 +61,7 @@ redirect_from:
 
 **Audio Team; StepFun**, *06/2025 - Present*
 * Research Intern. Supervisor: Chao Yan & Fei Tian.
-* Work on Spoken Dialog Model and Paralinguistic-Aware LLM.
+* Work on Speech Editing and Paralinguistic-Aware SDMs Evaluation.
   
 **Speech Group; Gerzz Interactive**, *09/2024 - 01/2025*
 * Algorithm Intern. Supervisor: Ying Xu.
@@ -67,7 +69,7 @@ redirect_from:
 
 **SAT Lab; Tsinghua University**, *12/2023 - 03/2024*
 * Research Intern. Supervisor: Wei-Qiang Zhang.
-* Work on Streaming ASR.
+* Work on Training-Free Methods for Streaming ASR.
 
 **NLP Lab; Northeastern University**, *07/2023 - 05/2025*
 * Research Intern. Supervisor: Tong Xiao.
@@ -75,7 +77,7 @@ redirect_from:
 * Work on Simultaneous Speech Translation.
 
 # 🧑‍🔬 Services
-- **Reviewer:**&nbsp; IJCAI (25)
+- **Reviewer:**&nbsp; IJCAI (25, 26)
 
 # 🎖 Honors and Awards
 
