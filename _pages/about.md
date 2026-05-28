@@ -53,6 +53,7 @@ My research focuses on Speech LLM and RL, especially controllable and expressive
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">EURASIP J ADV SIG PR</span> [A Multi-Task Learning Speech Synthesis Optimization method Based on CWT: a case study of Tacotron2](https://link.springer.com/article/10.1186/s13634-023-01096-x), **<u>Guoqiang Hu</u>**, Zhuofan Ruan, Wenqiu Guo, Yujuan Quan.
 
 # 🔍 Technical Reports
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">StepFun</span> [Step-Audio 2.5 Technical Report](https://arxiv.org/pdf/2605.23463), **<u>StepFun Audio Team</u>**.
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">StepFun</span> [Step-Audio-EditX Technical Report](https://arxiv.org/pdf/2511.03601), Chao Yan, Boyong Wu, Peng Yang, Pengfei Tan, **<u>Guoqiang Hu</u>**, Yuxin Zhang, Xiangyu (Tony)Zhang, Fei Tian, Xuerui Yang, Xiangyu Zhang, Daxin Jiang, Gang Yu.
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">StepFun</span> [Step-Audio 2 Technical Report](https://arxiv.org/pdf/2507.16632), **<u>StepFun Audio Team</u>**.
 
