@@ -96,13 +96,22 @@ Thanks for the template of <a href="https://github.com/RayeRen/acad-homepage.git
 <script src="//unpkg.com/three"></script>
 <script src="//unpkg.com/globe.gl"></script>
 
+<div id="globeViz" style="width:100%; height:600px;"></div>
+
+<script src="https://unpkg.com/three"></script>
+<script src="https://unpkg.com/globe.gl"></script>
+
 <script>
 const globe = Globe()
 (document.getElementById('globeViz'))
-.globeImageUrl('https://unpkg.com/three-globe/example/img/earth-blue-marble.jpg')
-.backgroundImageUrl('https://unpkg.com/three-globe/example/img/night-sky.png');
+
+.globeImageUrl(
+'https://unpkg.com/three-globe/example/img/earth-night.jpg'
+)
+
+.backgroundColor('#000000');
 
 globe.controls().autoRotate = true;
-globe.controls().autoRotateSpeed = 0.5;
+globe.controls().autoRotateSpeed = 0.8;
 </script>
 <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=cDVi8K_5uxZb7qOQoecqDEUueljn-YXXEm5tPqAd0v0"></script> -->
