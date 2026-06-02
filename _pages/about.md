@@ -89,7 +89,20 @@ My research focuses on Speech LLM and RL, especially controllable and expressive
 - Outstanding Class President Honors of Jinan University; *11/2024*
 
 
-
 Thanks for the template of <a href="https://github.com/RayeRen/acad-homepage.github.io">Yi Ren</a>
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=cDVi8K_5uxZb7qOQoecqDEUueljn-YXXEm5tPqAd0v0"></script>
+<div id="globeViz" style="width:100%; height:500px;"></div>
+
+<script src="//unpkg.com/three"></script>
+<script src="//unpkg.com/globe.gl"></script>
+
+<script>
+const globe = Globe()
+(document.getElementById('globeViz'))
+.globeImageUrl('https://unpkg.com/three-globe/example/img/earth-blue-marble.jpg')
+.backgroundImageUrl('https://unpkg.com/three-globe/example/img/night-sky.png');
+
+globe.controls().autoRotate = true;
+globe.controls().autoRotateSpeed = 0.5;
+</script>
+<!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=cDVi8K_5uxZb7qOQoecqDEUueljn-YXXEm5tPqAd0v0"></script> -->
