@@ -78,7 +78,7 @@ My research focuses on Speech LLM and RL, especially controllable and expressive
 * Work on Simultaneous Speech Translation.
 
 # 🧑‍🔬 Services
-- **Reviewer:**&nbsp; IJCAI (25, 26)
+- **Reviewer:**&nbsp; IJCAI (25, 26), APSIPA(26)
 
 # 🎖 Honors and Awards
 
