@@ -60,7 +60,11 @@ My research focuses on Speech LLM and RL, especially controllable and expressive
   
 # 💻 Internships and Collabration
 
-**Audio Team; StepFun**, *06/2025 - Present*
+**AIPD TEG; Tencent**, *06/2026 - present*
+* Research Intern(QingYun Talent Program). Supervisor: Haifeng Hu & Lichao Zhang.
+* Work on Full Duplex Dialog System.
+  
+**Audio Team; StepFun**, *06/2025 - 06/2025*
 * Research Intern. Supervisor: Chao Yan & Fei Tian.
 * Work on Speech Editing and Paralinguistic-Aware SDMs Evaluation.
   
@@ -78,7 +82,7 @@ My research focuses on Speech LLM and RL, especially controllable and expressive
 * Work on Simultaneous Speech Translation.
 
 # 🧑‍🔬 Services
-- **Reviewer:**&nbsp; IJCAI (25, 26), APSIPA(26)
+- **Reviewer:**&nbsp; IJCAI (25, 26), APSIPA(26), IALP(2026)
 
 # 🎖 Honors and Awards
 
