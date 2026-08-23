@@ -64,7 +64,7 @@ My research focuses on Speech LLM and RL, especially controllable and expressive
 * Research Intern(QingYun Talent Program). Supervisor: Haifeng Hu & Lichao Zhang.
 * Work on Full Duplex Dialog System.
   
-**Audio Team; StepFun**, *06/2025 - 06/2025*
+**Audio Team; StepFun**, *06/2025 - 06/2026*
 * Research Intern. Supervisor: Chao Yan & Fei Tian.
 * Work on Speech Editing and Paralinguistic-Aware SDMs Evaluation.
   
