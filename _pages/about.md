@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am currently a final-year Master's student at College of Computing & Data Science, Nanyang Technological University(NTU), supervised by Prof. [Eng Siong Chng](https://scholar.google.com/citations?hl=en&user=FJodrCcAAAAJ). Prior to this, I received my B.Eng. degree in Computer Science and Technology from Jinan University in 2025, with English as the medium of instruction. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am currently a final-year Master's student at the College of Computing and Data Science, Nanyang Technological University (NTU), supervised by Prof. [Eng Siong Chng](https://scholar.google.com/citations?hl=en&user=FJodrCcAAAAJ). Before that, I received my B.Eng. in Computer Science and Technology from Jinan University in 2025, through an English-taught program.
 
-My research focuses on Speech LLM and RL, especially controllable and expressive speech generation. I am interested in building Paralinguistic-Aware LLMs that enable more natural and human-like spoken interactions.
+My research focuses on speech large language models (Speech LLMs) and reinforcement learning (RL), with an emphasis on controllable and expressive speech generation and full-duplex spoken dialogue. My recent work covers interruption and backchannel handling in full-duplex speech models, paralinguistic-aware ASR, and expressive speech editing. My long-term goal is to build paralinguistic-aware spoken dialogue systems that listen, respond, and express themselves as naturally as humans do.
 
 <br>
 
