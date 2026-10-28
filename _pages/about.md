@@ -40,6 +40,10 @@ My research focuses on Speech LLM and RL, especially controllable and expressive
 # 📝 Publications 
   
 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">arXiv 2026</span> [Integrate the Reward, Don't Sample It: Window Likelihood for Interruptions and Backchannels in Full-Duplex Speech Models](https://arxiv.org/abs/2610.35581), **<u>Guoqiang Hu</u>**, Lichao Zhang, Yizhou Peng, Yuhao Luo, Haifeng Hu, Sallen Sun, Will Yang, Eng Siong Chng.
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ISCSLP 2026</span> [Preserving Pretrained Expert Routing for Paralinguistic-Aware ASR](https://arxiv.org/abs/2610.35581), **<u>Guoqiang Hu</u>**, Chen Geng, Eng Siong Chng.
+
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">WAICA 2026</span> [MULTI-Bench: A Multi-Turn Interactive Benchmark for Assessing Emotional Intelligence ability of Spoken Dialogue Models](https://arxiv.org/pdf/2511.00850), Yayue Deng\*, **<u>Guoqiang Hu</u>\***, Haiyang Sun, Xiangyu Zhang, Haoyang Zhang, Fei Tian, Xuerui Yang, Gang Yu, Eng Siong Chng
   
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IJCAI 2024</span> [Recent Advances in End-to-End Simultaneous Speech Translation](https://arxiv.org/pdf/2406.00497), Xiaoqian Liu, **<u>Guoqiang Hu</u>**, Yangfan Du, Erfeng He, Yingfeng Luo, Chen Xu, Tong Xiao, Jingbo Zhu.
@@ -61,8 +65,8 @@ My research focuses on Speech LLM and RL, especially controllable and expressive
 # 💻 Internships and Collabration
 
 **AIPD TEG; Tencent**, *06/2026 - present*
-* Research Intern(QingYun Talent Program). Supervisor: Haifeng Hu & Lichao Zhang.
-* Work on Full Duplex Dialog System.
+* Research Intern(Project UP Talent Program). Supervisor: Haifeng Hu & Lichao Zhang.
+* Work on Full Duplex Speech Model.
   
 **Audio Team; StepFun**, *06/2025 - 06/2026*
 * Research Intern. Supervisor: Chao Yan & Fei Tian.
